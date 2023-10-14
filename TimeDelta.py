@@ -17,4 +17,4 @@ for t_itr in range(t):
 
     delta = time_delta(t1, t2)
 
-    print(int(delta))
+    print(abs(int(delta)))
