@@ -12,7 +12,7 @@ for i in max_list:
     total+=i*i
     
 result = total%m
-print(total)
+
 print(result)
     
 
